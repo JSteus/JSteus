@@ -1,6 +1,6 @@
-- Desenvolvedor Frontend Júnior.
+- Desenvolvedor FullStack.
 
-- Atualmente estou trabalhando como Frontend na Direto Tech (https: //direto.tech/)
+- Atualmente estou trabalhando Ecto Digital.
 
 - Atualmente sou estudante de graduação em sistemas de informação na Faculdade Estácio do Pará (FAP)
 
