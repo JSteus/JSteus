@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/mateus-nascimento-735b7b1b6/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-  <a href="https://discord.com/users/4461/" alt="Discord">
+  <a href="https://discord.com/users/mateus1279/" alt="Discord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>  
 
